@@ -1,0 +1,20 @@
+{
+  "name": "js-basic-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AveyBD/js-basic-project.git"
+  },
+  "keywords": [],
+  "author": "Debashish D. Dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AveyBD/js-basic-project/issues"
+  },
+  "homepage": "https://github.com/AveyBD/js-basic-project#readme"
+}
